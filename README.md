@@ -1,3 +1,5 @@
+#WebScapper
+
 It imports necessary libraries including requests, urlopen from urllib.request, ssl, and BeautifulSoup.
 
 The script defines a URL (url) pointing to a web page from which images will be scraped.
