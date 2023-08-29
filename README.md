@@ -1,4 +1,4 @@
-#WebScapper
+# WebScapper
 
 It imports necessary libraries including requests, urlopen from urllib.request, ssl, and BeautifulSoup.
 
